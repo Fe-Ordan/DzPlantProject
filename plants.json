@@ -1,0 +1,425 @@
+{
+    
+     "5415455":   {
+            "name":"Acanthus mollis",
+            "plant_name":{
+                "English":"Acanthus mollis",
+                "French":"Acanthe molle",
+                "Arabic":"أقنـة رهلـية ",
+                "localAR":["Bakhbakh بخباخ","çabounia  سابونية " ,  "الصليـخ" ,"الزركو",""],
+                "LocalAmzg":["تــاسماس","مصمـص","تــافريرة","تـــافرفرة"],
+                "structured_name": {
+                    "genus": "Acanthus L. – acanthus",
+                    "species": "Acanthus mollis L. – bear's breech"
+                 }
+            },
+            "name definition":"يأتي اسم 'Acanthus' من الكلمة اليونانية 'acantha' والتي تعني شوكة وتشير إلى الأجزاء الشائكة المحيطة بالزهرة. يشير اسم الأنواع ، موليس ، إلى الأوراق اللينة.",
+            "gbif_id": "5415455",
+            "plant_description1":" نبتـــة معــمرة بريــة وزراعيــة من فصيلــة الأقنـاثيات. مسكنهــا الخراب والأمـاآن الصخريـة، تعلــــو ما بين نصف متــر   والمتــر ، ســاقهـا منتصبــة أسطوانيـة .أوراقهـا آبيرة، مفرضــة ،ملســاء ، طريـة، لامعــة ، خضراء اللون. أزهـارها خنثويـة تظهر على رأس الساق الذي يتوسط الأوراق آأنـــها سنبلـة ، لونــــها يتراوح ما بـــين الأبيــــض والأزرق، إبطيـة، مصففـــة، آأسها رباعي الفصوص غير متساوية، ولنورتها شفـة سفليـة عريضة مفصصة إلى 3 فصوص ، ربــــاعية الأسديات الملتحمة بالنورة. ثمارها حقيةسمراء، ملساء تحوي من بزرتين إلى أربعة بزور لامعة، سمراء. طعمها مر. عروقهـا قويـة، بيضــــاء. ",
+            "plant_description2":"هذا النوع من البحر الأبيض المتوسط. في الجزائر شائع جدًا في تل ونادر في أماكن أخرى. توجد في الأماكن الباردة والغابات والوديان الرطبة.",
+            "plant_description3":"N/A", 
+            "plant_useful_parts":["الأوراق الطريـة","الزهـور","، العروق"],
+            "chemical_constituents":["أملاح معدنيـة","لعاب","عفص","جليكوز"],
+            "plant_benefits":"من مميزات الأقنثـة أنها ملــينة، ملــحمـة للجروح، مفتحـة، لهذا إستعملهـا القدماء في معالجـة الخناق أو الذبحـة اللوزية، الحروق، الصدمات أو الرضات، القوبـاء ضمـادا ، والإسهـال وسوء الهضـم شربـا. آما أن الأقنثـة تنفـع من لسعات الحشرات السامـة. أوراقـــــها هي الأآثر إستعمـالا في الحقن والحمامات وتليين البطن، وبإمكانها أن تعوض الخبيز في التليين لما تحـويه من لعـاب, يتم تحضير الأوراق والجذور كحمام ضد تهيج الجلد",
+            "IsMedicinal":"true",
+            "IsRare":"N/A",
+            "height_range_cm":"100-150",
+            "width_range_cm":"100-150",
+            "growth_rate":"N/A",
+            "flower_type":"hermaphrodite ",
+            "SeasonofInterst":["Spring","Summer"],
+            "Water_needs":"متوسط",
+            "Origin":"Southern Europe & North West Africa",
+            "Soil_type":["Loam","Sand","Chalk"],
+            "pH":"Acid, Alkaline, Neutral",
+            "Attracts":"N/A",
+
+
+
+            
+            "plant_imgs_array":[
+                
+                    "https://i.imgur.com/cwxTNX3.jpg"
+                ,
+                    "https://i.imgur.com/BOgMM4f.jpg"
+                ,
+                  "https://i.imgur.com/5nb3d7m.jpg"
+                ,"https://i.imgur.com/4pQHFnB.jpg"
+                
+            ],
+            "map_localisation":"https://i.imgur.com/6gMQVKC.png",
+            "gbif_url":"https://www.gbif.org/species/5415455",
+            "plant_community_img_array":[],
+            "common_names": [
+                "bear's breeches",
+                "sea dock",
+                "bear's foot plant",
+                "sea holly"
+
+             ],
+          
+             "taxonomy": {
+                "kingdom": "Plantae",
+                "phylum_subkingdom": "Tracheophyta",
+                "class_division": "Magnoliopsida",
+                "Subclass": "Asterades",
+                "order":"Scrophulariales",
+                "family": "Acanthaceae (Acanthus)",
+                "genus": "Acanthus L. – acanthus"
+             },
+             "plant_locations_algeria":[
+                 "","",""
+             ],
+             "sources_of_information":[
+                 {
+                    "source_name":"San Marcos Growers",
+                    "source_url":"https://www.smgrowers.com/products/plants/plantdisplay.asp?plant_id=21"
+             },
+             {
+                 "source_name":"RHS",
+                 "source_url":"https://www.rhs.org.uk/plants/155/acanthus-mollis/details"
+             },
+             {
+                 "source_name":"Catalogue of Life",
+                 "source_url":"http://www.catalogueoflife.org/col/details/species/id/380f96db26613802afa645ca6ce8a5e8"
+             },
+             {
+                 "source_name":"Guide illustré de la flore algérienne ",
+                 "source_url":"https://www.bgci.org/files/JBF/images/livre-guideIllustreDeLaFloreAlgerienne.pdf"
+             },
+             {
+                 "source_name":"تقرير مجموعة النباتات الطبية 1995",
+                 "source_url":"https://www.uicnmed.org/nabp/web/documents/PLANTE.pdf"
+             }
+
+            ],
+            "contributors":[]
+        },
+     "5289793":   {
+            "name":"Aegilops triuncialis",
+            "plant_name":{
+                "English":"Aegilops triuncialis",
+                "French":"Égilope à trois arêtes",
+                "Arabic":"دوسر ثلاثي البوصات",
+                "localAR":["الفار سبولات","بوستوت"],
+                "LocalAmzg":["N/A"],
+                "structured_name": {
+                    "genus": "Aegilops",
+                    "species": "triuncialis"
+                 }
+            },
+            "name definition":"تأتي كلمة Aegilops من الكلمة اليونانية aigos التي تعني الماعز و ôps التي تعني العين: تبدو السنيبلات مثل عين الماعز محاطة بحواف طويلة. يشير Triuncialis إلى وجود ثلاث حواف.",
+            "gbif_id": "5289793",
+            "plant_description1":"هذا النوع من البحر الأبيض المتوسط ​​منتشر في جميع أنحاء الجزائر ونادرًا جهة الشرق. إنه موجود في المراعي والحقول والمساحات.",
+            "plant_description2":"لعب جنس Aegilops دورًا مهمًا في حدثين هامين من أحداث التهجين ، والتي نشأت في القمح الشائع. غالبًا ما يستخدم هذا النوع كنبات علف.",
+            "plant_description3":"N/A", 
+            "plant_useful_parts":["N/A"],
+            "chemical_constituents":["N/A"],
+            "plant_benefits":"N/A",
+            "IsMedicinal":"N/A",
+            "IsRare":"N/A",
+            "height_range_cm":"20-50",
+            "width_range_cm":"N/A",
+            "growth_rate":"N/A",
+            "flower_type":"N/A",
+            "SeasonofInterst":["Spring"],
+            "Water_needs":"N/A",
+            "Origin":"Mediterranean Europe",
+            "Soil_type":["N/A"],
+            "pH":"7-7.5",
+            "Attracts":"N/A",
+
+
+
+            
+            "plant_imgs_array":[
+                
+                  "https://i.imgur.com/vmXekST.jpg"
+                ,
+                  "https://i.imgur.com/T3tGcDY.jpg"
+                ,
+                  "https://i.imgur.com/yeEW2Ym.jpg"
+                , "https://i.imgur.com/VyL8wcF.jpg",
+                "https://i.imgur.com/rAS6yxo.jpg",
+                "https://i.imgur.com/YxiD830.jpg",
+                "https://i.imgur.com/mqFz6O6.png",
+                "https://i.imgur.com/NpmJAUE.png"
+                
+            ],
+            "map_localisation":"https://i.imgur.com/cYW2BUX.png",
+            "gbif_url":"https://www.gbif.org/species/5289793",
+            "plant_community_img_array":[],
+            "common_names": [
+                "Jointed goat",
+                "grass",
+                "Barb goat grass",
+                "Barbed goatgrass"
+
+             ],
+            
+             "taxonomy": {
+                "kingdom": "Plantae",
+                "phylum_subkingdom": "Tracheophyta",
+                "class_division": "Liliopsida",
+             
+                "order":"Poales",
+                "family": "Poaceae",
+                "genus": "Aegilops"
+             },
+             "plant_locations_algeria":[
+                "N/A"
+              ],
+              "plant_locations_world":[
+                 "Mediterranean Europe","NW Africa","Western Asia","US"
+             ],
+             "sources_of_information":[
+              
+             {
+                 "source_name":"RHS",
+                 "source_url":"https://www.rhs.org.uk/Plants/185683/i-Aegilops-triuncialis-i/Details"
+             },
+             {
+                 "source_name":"Catalogue of Life",
+                 "source_url":"http://www.catalogueoflife.org/col/details/species/id/380f96db26613802afa645ca6ce8a5e8"
+             },
+             {
+                 "source_name":"Guide illustré de la flore algérienne ",
+                 "source_url":"https://www.bgci.org/files/JBF/images/livre-guideIllustreDeLaFloreAlgerienne.pdf"
+             },
+             {
+                 "source_name":"GBIF",
+                 "source_url":"https://www.gbif.org/species/5289793"
+             },
+             {
+                 "source_name":"Trefle",
+                 "source_url":"https://trefle.io/explore/species/aegilops-triuncialis"
+             },
+             {
+                 "source_name":"Wikipedia",
+                 "source_url":"https://en.wikipedia.org/wiki/Aegilops_triuncialis"
+             },
+             {
+                 "source_name":"cal-ipc",
+                 "source_url":"https://www.cal-ipc.org/plants/profile/aegilops-triuncialis-profile/"
+             }
+
+            ],
+            "contributors":[]
+        },
+     "2651816":   {
+            "name":"Adiantum capillus-veneris",
+            "plant_name":{
+                "English":"Adiantum capillus-veneris",
+                "French":"Capillaire, Cheveu-de-Vénus",
+                "Arabic":"كزبرة البئـر",
+                "localAR":["البرشاوشان","عشبة الماء","ساق الأكحل","شعر الأرض","سـاق الوصيف"],
+                "LocalAmzg":["قنجيت","رجايفـة","رفـرف "],
+                "structured_name": {
+                    "genus": "Adiantum",
+                    "species": "capillus-veneris"
+                 }
+            },
+            "name definition":"يأتي اسم Adiantum من الكلمة اليونانية adiantos ويشير إلى الأوراق التي لا تبلل. إن اسم النوع Capillus يعني رقيقًا جدًا في إشارة إلى شعر الإلهة فينوس.",
+            "gbif_id": "2651816",
+            "plant_description1":"ينتشر هذا السرخس خارج حافة البحر الأبيض المتوسط. في الجزائر ، إنه شائع جدًا في التل والمرتفعات. ينمو على الصخور حيث توجد الرطوبة وفي تربة الحجر الجيري والسيليكون.",
+            "plant_description2":"تستخدم الأوراق ضد أمراض الشعب الهوائية والرئة. تعمل كطارد للبلغم وتلين وتعزز التعرق بشكل طفيف.هذه السرخس لها جذمور زاحفة تبدأ منها أعناق طويلة ورفيعة بنية اللون. كل عنصر من عناصر الورقة يشبه المروحة",
+            "plant_description3":"عشـــــــــبة بـــريـة جذمـورية معمــرة من السرخسيات. تنبت بالآبـــار ومجاري المياه والمواقع الظليلـة للغاية . ولا تختص بزمـان . طولهـا نحو الشبـر، وليس لها زهر ولا ثمــارولكن بوغ مثل بقيـة السرخسيات. وليس لها ساق ولكن زنـاد أسـود اللون ثنــائي  الإنشعـاب، وآل شعبـة منه تحمــل أربعـة فروع لا قيـاسية الطول، مروحيـة الترتيب، آلويـة الوريقات المتمعجــة الأطراف. ولها عـروق  جذموريـة قصيرة ضاربـة في الأرضية الصلبـة مثل الأنابيب ، سمراء اللون ، إثمارها عبـارة عن حقق بوغيــة ترتكـز على قمـم الوريقات  التي تنعطف عليها . رائحتها عطريـة ، طعمهـا لـــذيذ", 
+            "plant_useful_parts":["النبتـة كلها"],
+            "chemical_constituents":["سكر","عفص","صمغ"],
+            "plant_benefits":"قد جريت آزبرة البئـر للسعال وضيـق النفـس والربـو وأوجـاع الصـدر فأعطت نتائـج جيدة وتعالج هذه الأمراض بشرابها الذي يصنـع آالآتي : 40 غ من آزبرة البئر تنقــع لمدة 12 ساعـة في إنـاء مغلـق به ليترين من الماء المغلي ، ثم تعصر ليخلط جزء من هذا  العصيـر ببيـاض البيض مع آيلوغرامين من السكر النقي ثم يصب هذا الخليط في بقيـة النقيع ويخلط الكل جيدا ثم يوضع على نار للغليان  وإزالـة الرغـوة مرتين أو ثلاثـة ، ويبقى يغلى إلى أن ينعقـد أي تصيـر له تجاعيـد إذا ما نسفت على سطـح الملعقـة. حينئـذ يصب وهو يغلى على آزبـرة البئر المقطعـة والموضوعـة في إنـاء ثم يغـلق عليه إلى أن يبـرد فيصفـى ويوضع في إنـاء ويغلق عليع إلى وقت الحاجة .",
+            "IsMedicinal":"true",
+            "IsRare":"No",
+            "height_range_cm":"51",
+            "width_range_cm":"N/A",
+            "growth_rate":"Slow",
+            "flower_type":"N/A",
+            "SeasonofInterst":["N/A"],
+            "Water_needs":"Medium",
+            "Origin":"N/A",
+            "Soil_type":["N/A"],
+            "pH":"6-8",
+            "Attracts":"N/A",
+
+
+
+            
+            "plant_imgs_array":[
+                
+                  "https://i.imgur.com/N7Nakxt.png"
+                ,
+                  "https://i.imgur.com/QFv7zGB.png"
+                ,
+                  "https://i.imgur.com/324UzUA.png"
+                , "https://i.imgur.com/UAFv8ZP.png",
+                "https://i.imgur.com/ul8Thjy.png",
+                "https://i.imgur.com/FxRNOWM.png",
+                "https://i.imgur.com/gF0arau.png"
+       
+                
+            ],
+            "map_localisation":"https://i.imgur.com/xDyw9Rq.png",
+            "gbif_url":"https://www.gbif.org/species/2651816",
+            "plant_community_img_array":[],
+            "common_names": [
+                "Maidenhair Fern",
+                "Common maidenhair",
+                "Southern Maidenhair Fern",
+                "Venus Maidenhair Fern"
+
+             ],
+            
+             "taxonomy": {
+                "kingdom": "Plantae",
+                "phylum_subkingdom": "Tracheophyta",
+                "class_division": "Polypodiopsida",
+             
+                "order":"Polypodiales",
+                "family": "Pteridaceae",
+                "genus": "Adiantum"
+             },
+             "plant_locations_algeria":[
+               "N/A"
+             ],
+             "plant_locations_world":[
+                "Mediterranean Europe","NW Africa","Western Asia","US"
+            ],
+             "sources_of_information":[
+                 {
+                    "source_name":"San Marcos Growers",
+                    "source_url":"https://www.smgrowers.com/products/plants/plantdisplay.asp?plant_id=21"
+             },
+             {
+                 "source_name":"RHS",
+                 "source_url":"https://www.rhs.org.uk/Plants/272107/i-Adiantum-capillus-veneris-i-Daphnites/Details"
+             },
+             {
+                 "source_name":"Catalogue of Life",
+                 "source_url":"http://www.catalogueoflife.org/col/details/species/id/6fee8f4ff86a5cf6f5670dc5afd029cc"
+             },
+             {
+                 "source_name":"Guide illustré de la flore algérienne ",
+                 "source_url":"https://www.bgci.org/files/JBF/images/livre-guideIllustreDeLaFloreAlgerienne.pdf"
+             },
+             {
+                 "source_name":"تقرير مجموعة النباتات الطبية 1995",
+                 "source_url":"https://www.uicnmed.org/nabp/web/documents/PLANTE.pdf"
+             },
+             {
+                 "source_name":"Trefle",
+                 "source_url":"https://trefle.io/explore/species/adiantum-capillus-veneris"
+             },
+             {
+                 "source_name":"Wikipedia",
+                 "source_url":"https://en.wikipedia.org/wiki/Adiantum_capillus-veneris"
+             }
+
+            ],
+            "contributors":[]
+        },
+     "5376075":   {
+            "name":"Alliaria petiolata",
+            "plant_name":{
+                "English":"Alliaria petiolata - (M.Bieb.)Cavara.&Grande",
+                "French":"Alliaire officinale",
+                "Arabic":"حشيشات الثوم",
+                "localAR":["حشيشات الثوم","كركاس"],
+                "LocalAmzg":["N/A"],
+                "structured_name": {
+                    "genus": "Alliaria",
+                    "species": "petiolata"
+                 }
+            },
+            "name definition":"يأتي اسم Alliaria من الكلمة اللاتينية allium ويشير إلى رائحة الثوم في النبات. يشير اسم النوع السابق officinalis إلى الخصائص الطبية للأنواع. يشير الاسم الحالي للأنواع petiolata إلى أن أوراق القاعدة طويلة الساق.",
+            "gbif_id": "5376075",
+            "plant_description1":"هذا النوع من البحر الأبيض المتوسط ​​له أصل واسع ، ويمتد حتى الصين عبر الشرق الأوسط. تم تجنيسه في أمريكا الشمالية بعد إدخاله من قبل البشر. في الجزائر ، ينتشر في التل ويتواجد في الغابات الباردة والوديان الظليلة والغنية بالدبال",
+            "plant_description2":"هذا النبات يحفز النشاط النفسي ويزيد من إفراز البول ويسرع التئام القرحة. يستخدم في الطبخ في السلطات ، فهو ينبعث منه رائحة الثوم.",
+            "plant_description3":"ألياري نبات منتصب وقوي يمكن أن يصل ارتفاعه إلى 40 إلى 80 سم. الأوراق القاعدية طويلة الساق وشكل الكلى ، بينما الأوراق العلوية على شكل قلب وذات أسنان خشنة. الزهور البيضاء نهائية والفاكهة وعرة قليلاً وتفتح بأربعة صمامات.", 
+            "plant_useful_parts":["N/A"],
+            "chemical_constituents":["N/A"],
+            "plant_benefits":"",
+            "IsMedicinal":"true",
+            "IsRare":"N/A",
+            "height_range_cm":"30-100",
+            "width_range_cm":"N/A",
+            "growth_rate":"Slow",
+            "flower_type":"N/A",
+            "SeasonofInterst":["N/A"],
+            "Water_needs":"Medium",
+            "Origin":"N/A",
+            "Soil_type":["N/A"],
+            "pH":"7-7.5",
+            "Attracts":"N/A",
+
+
+
+            
+            "plant_imgs_array":[
+                
+                  "https://i.imgur.com/z9QZRy0.png"
+                ,
+                  "https://i.imgur.com/6GPBg0M.png"
+                ,
+                  "https://i.imgur.com/oPZRNb8.png"
+                , "https://i.imgur.com/2dr0nZt.png",
+                "https://i.imgur.com/zKC07IT.png",
+                "https://i.imgur.com/dRnSpCS.png",
+                "https://i.imgur.com/yjTWMcg.png"
+       
+                
+            ],
+            "map_localisation":"https://i.imgur.com/VVVz7dT.png",
+            "gbif_url":"https://www.gbif.org/species/5376075",
+            "plant_community_img_array":[],
+            "common_names": [
+              "Garlic Mustard",
+              "garlic-root","garlicwort","hedge-garlic",""
+
+             ],
+            
+             "taxonomy": {
+                "kingdom": "Plantae",
+                "phylum_subkingdom": "Tracheophyta",
+                "class_division": "Magnoliopsida",
+             
+                "order":"Brassicales",
+                "family": "Brassicaceae",
+                "genus": "Alliaria Heist. ex Fabr."
+             },
+             "plant_locations_algeria":[
+               "N/A"
+             ],
+             "plant_locations_world":[
+                "Most of Europe", "including Britain", "south to N. Africa" ,"east to W. Asia","the Himalayas"
+            ],
+             "sources_of_information":[
+             
+             {
+                 "source_name":"pfaf",
+                 "source_url":"https://pfaf.org/user/Plant.aspx?LatinName=Alliaria+petiolata"
+             },
+             {
+                 "source_name":"Catalogue of Life",
+                 "source_url":"http://www.catalogueoflife.org/col/details/species/id/d8254749384e599ec16d50b9b4ca4ff8"
+             },
+             {
+                 "source_name":"Guide illustré de la flore algérienne ",
+                 "source_url":"https://www.bgci.org/files/JBF/images/livre-guideIllustreDeLaFloreAlgerienne.pdf"
+             },
+             {
+                 "source_name":"تقرير مجموعة النباتات الطبية 1995",
+                 "source_url":"https://www.uicnmed.org/nabp/web/documents/PLANTE.pdf"
+             },
+             {
+                 "source_name":"Trefle",
+                 "source_url":"https://trefle.io/explore/species/alliaria-petiolata"
+             },
+             {
+                 "source_name":"Wikipedia",
+                 "source_url":"https://en.wikipedia.org/wiki/Alliaria_petiolata"
+             }
+
+            ],
+            "contributors":[]
+        }
+    
+}

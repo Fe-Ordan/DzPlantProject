@@ -1,0 +1,415 @@
+{
+    "plants": [
+        {
+            "name":"Acanthus mollis",
+            "plant_name":{
+                "English":"Acanthus mollis",
+                "French":"Acanthe molle",
+                "Arabic":"أقنـة رهلـية ",
+                "local":["Bakhbakh بخباخ","çabounia سابونية"],
+                "structured_name": {
+                    "genus": "Acanthus L. – acanthus",
+                    "species": "Acanthus mollis L. – bear's breech"
+                 }
+            },
+            "name definition":"Le nom Acanthus vient du grec acantha qui signifie épine et fait allusion aux bractées épineuses entourant la fleur. Le nom d’espèce, mollis, fait référence aux feuilles molles.",
+            "gbif_id": "5415455",
+            "plant_description1":"L’espèce est méditerranéenne. En Algérie, elle est très commune dans le Tell et rare ailleurs. Elle est présente dans  les lieux frais, les forêts et les  ravins humides.  ",
+            "plant_description2":"Cette plante vivace à tige simple arrondie et robuste peut atteindre 1,5 m de hauteur. Les feuilles opposées sont grandes, molles, profondément découpées en forme de lobes et dentées. Les fleurs, blanches et très grandes, sont groupées en gros épis à l’extrémité de la tige.",
+            "plant_useful_parts":["",""],
+            "chemical_constituents":["",""],
+            "plant_benefits":[],
+            "IsMedicinal":"true",
+            "IsRare":"false",
+            "height_range_cm":"100-150",
+            "growth_rate":"N/A",
+            "flower_type":"hermaphrodite",
+            "SeasonofInterst":["Printemps","été"],
+            "Water_needs":"Moyenne",
+            "Origin":"Portugal (Europe)",
+            "Soil_type":"",
+            "pH":"Acid, Alkaline, Neutral",
+            "Attracts":"N/A",
+
+
+            
+            "plant_imgs_array":[
+                
+                    "https://i.imgur.com/cwxTNX3.jpg"
+                ,
+                    "https://i.imgur.com/BOgMM4f.jpg"
+                ,
+                  "https://i.imgur.com/5nb3d7m.jpg"
+                ,"https://i.imgur.com/4pQHFnB.jpg"
+                
+            ],
+            "map_localisation":"https://i.imgur.com/6gMQVKC.png",
+            "gbif_url":"https://www.gbif.org/species/5415455",
+            "plant_community_img_array":[],
+            "common_names": [
+                "bear's breeches",
+                "sea dock",
+                "bear's foot plant",
+                "sea holly"
+                
+
+             ],
+             "plant_id":"453332",
+             "taxonomy": {
+                "kingdom": "Plantae",
+                "phylum_subkingdom": "Tracheophyta",
+                "class_division": "Magnoliopsida",
+                "Subclass": "Asterades",
+                "order":"Scrophulariales",
+                "family": "Acanthaceae (Acanthus)",
+                "genus": "Acanthus L. – acanthus"
+             },
+             "plant_locations_algeria":[
+                 "","",""
+             ],
+             "sources_of_information":[
+                {
+                   "source_name":"San Marcos Growers",
+                   "source_url":"https://www.smgrowers.com/products/plants/plantdisplay.asp?plant_id=21"
+            },
+            {
+                "source_name":"RHS",
+                "source_url":"https://www.rhs.org.uk/plants/155/acanthus-mollis/details"
+            },
+            {
+                "source_name":"Catalogue of Life",
+                "source_url":"http://www.catalogueoflife.org/col/details/species/id/380f96db26613802afa645ca6ce8a5e8"
+            },
+            {
+                "source_name":"Guide illustré de la flore algérienne ",
+                "source_url":"https://www.bgci.org/files/JBF/images/livre-guideIllustreDeLaFloreAlgerienne.pdf"
+            },
+            {
+                "source_name":"تقرير مجموعة النباتات الطبية 1995",
+                "source_url":"https://www.uicnmed.org/nabp/web/documents/PLANTE.pdf"
+            }
+
+           ],
+            "contributors":[]
+        },
+        {
+            "name":"Aegilops triuncialis",
+            "plant_name":{
+                "English":"Aegilops triuncialis",
+                "French":"Égilope à trois arêtes",
+                "Arabic":"دوسر ثلاثي البوصات",
+                "localAR":["Sboulet el far","Bou stout"],
+                "LocalAmzg":["N/A"],
+                "structured_name": {
+                    "genus": "Aegilops",
+                    "species": "triuncialis"
+                 }
+            },
+            "name definition":"Aegilops vient du grec aigos qui signifie chèvre et de ôps signifiant œil : l’épillet ressemble à un œil de chèvre entouré de longues arêtes. Triuncialis fait référence à la présence de trois arêtes.",
+            "gbif_id": "5289793",
+            "plant_description1":"Cette espèce méditerranéenne est commune dans toute l’Algérie et plus rare vers l’est. Elle est présente dans les broussailles, les pâturages, les champs et les clairières.",
+            "plant_description2":"Le genre Aegilops a joué un rôle conséquent dans deux événements d’hybridation importants, à l’origine du blé tendre. Cette espèce est utilisée le plus souvent comme plante fourragère.",
+            "plant_description3":"La plante possède des feuilles nombreuses à la base de la tige, plates, molles, ciliées et assez larges. L’inflorescence est un épi comprenant des épillets latéraux à deux ou trois arêtes et un terminal à un, deux ou trois arêtes. ", 
+            "plant_useful_parts":["N/A"],
+            "chemical_constituents":["N/A"],
+            "plant_benefits":"N/A",
+            "IsMedicinal":"N/A",
+            "IsRare":"N/A",
+            "height_range_cm":"20-50",
+            "width_range_cm":"N/A",
+            "growth_rate":"N/A",
+            "flower_type":"N/A",
+            "SeasonofInterst":["Spring"],
+            "Water_needs":"N/A",
+            "Origin":"Mediterranean Europe",
+            "Soil_type":["N/A"],
+            "pH":"7-7.5",
+            "Attracts":"N/A",
+
+
+
+            
+            "plant_imgs_array":[
+                
+                  "https://i.imgur.com/vmXekST.jpg"
+                ,
+                  "https://i.imgur.com/T3tGcDY.jpg"
+                ,
+                  "https://i.imgur.com/yeEW2Ym.jpg"
+                , "https://i.imgur.com/VyL8wcF.jpg",
+                "https://i.imgur.com/rAS6yxo.jpg",
+                "https://i.imgur.com/YxiD830.jpg",
+                "https://i.imgur.com/mqFz6O6.png",
+                "https://i.imgur.com/NpmJAUE.png"
+                
+            ],
+            "map_localisation":"https://i.imgur.com/cYW2BUX.png",
+            "gbif_url":"https://www.gbif.org/species/5289793",
+            "plant_community_img_array":[],
+            "common_names": [
+                "Jointed goat",
+                "grass",
+                "Barb goat grass",
+                "Barbed goatgrass"
+
+             ],
+            
+             "taxonomy": {
+                "kingdom": "Plantae",
+                "phylum_subkingdom": "Tracheophyta",
+                "class_division": "Liliopsida",
+             
+                "order":"Poales",
+                "family": "Poaceae",
+                "genus": "Aegilops"
+             },
+             "plant_locations_algeria":[
+                 "Mediterranean Europe","NW Africa","Western Asia","US"
+             ],
+             "sources_of_information":[
+                 {
+                    "source_name":"San Marcos Growers",
+                    "source_url":"https://www.smgrowers.com/products/plants/plantdisplay.asp?plant_id=21"
+             },
+             {
+                 "source_name":"RHS",
+                 "source_url":"https://www.rhs.org.uk/plants/155/acanthus-mollis/details"
+             },
+             {
+                 "source_name":"Catalogue of Life",
+                 "source_url":"http://www.catalogueoflife.org/col/details/species/id/380f96db26613802afa645ca6ce8a5e8"
+             },
+             {
+                 "source_name":"Guide illustré de la flore algérienne ",
+                 "source_url":"https://www.bgci.org/files/JBF/images/livre-guideIllustreDeLaFloreAlgerienne.pdf"
+             },
+             {
+                 "source_name":"تقرير مجموعة النباتات الطبية 1995",
+                 "source_url":"https://www.uicnmed.org/nabp/web/documents/PLANTE.pdf"
+             },
+             {
+                 "source_name":"Trefle",
+                 "source_url":"https://trefle.io/explore/species/acanthus-mollis#specifications"
+             }
+
+            ],
+            "contributors":[]
+        },
+        {
+            "name":"Adiantum capillus-veneris",
+            "plant_name":{
+                "English":"Adiantum capillus-veneris",
+                "French":"Capillaire, Cheveu-de-Vénus",
+                "Arabic":"عشبة الماء",
+                "localAR":["Achbet el ma","Sag el akehal"],
+                "LocalAmzg":["N/A"],
+                "structured_name": {
+                    "genus": "Adiantum",
+                    "species": "capillus-veneris"
+                 }
+            },
+            "name definition":"Le nom Adiantum vient du grec adiantos et fait allusion aux feuilles qui ne se mouillent pas. Le nom d’espèce capillus signifie très fin en référence aux cheveux de la déesse Vénus.",
+            "gbif_id": "2651816",
+            "plant_description1":"Cette fougère est répandue audelà du pourtour méditerranéen. En Algérie, elle est assez commune dans le Tell et les hauts plateaux. Elle pousse sur les rochers où l’humidité est présente et en terrain calcaire et siliceux.",
+            "plant_description2":"Les feuilles sont utilisées contre les affections bronchiques et pulmonaires. Elles agissent comme expectorant, adoucissant et favorisent légèrement la transpiration Cette fougère possède un rhizome rampant d’où partent des pétioles brun noirâtre, longs et minces. Chacun des éléments de la feuille est semblable à un éventail",
+            "plant_description3":"N/A", 
+            "plant_useful_parts":["N/A"],
+            "chemical_constituents":["N/A"],
+            "plant_benefits":"سرخس كزبرة البئر له تاريخ طويل في الاستخدام الطبي وكان المكون الرئيسي لشراب السعال المعروف باسم 'Capillaire' ، والذي ظل مستخدمًا حتى القرن التاسع عشر",
+            "IsMedicinal":"true",
+            "IsRare":"N/A",
+            "height_range_cm":"51",
+            "width_range_cm":"N/A",
+            "growth_rate":"Slow",
+            "flower_type":"N/A",
+            "SeasonofInterst":["N/A"],
+            "Water_needs":"Medium",
+            "Origin":"N/A",
+            "Soil_type":["N/A"],
+            "pH":"6-8",
+            "Attracts":"N/A",
+
+
+
+            
+            "plant_imgs_array":[
+                
+                  "https://i.imgur.com/N7Nakxt.png"
+                ,
+                  "https://i.imgur.com/QFv7zGB.png"
+                ,
+                  "https://i.imgur.com/324UzUA.png"
+                , "https://i.imgur.com/UAFv8ZP.png",
+                "https://i.imgur.com/ul8Thjy.png",
+                "https://i.imgur.com/FxRNOWM.png",
+                "https://i.imgur.com/gF0arau.png"
+       
+                
+            ],
+            "map_localisation":"https://i.imgur.com/xDyw9Rq.png",
+            "gbif_url":"https://www.gbif.org/species/2651816",
+            "plant_community_img_array":[],
+            "common_names": [
+                "Maidenhair Fern",
+                "Common maidenhair",
+                "Southern Maidenhair Fern",
+                "Venus Maidenhair Fern"
+
+             ],
+            
+             "taxonomy": {
+                "kingdom": "Plantae",
+                "phylum_subkingdom": "Tracheophyta",
+                "class_division": "Polypodiopsida",
+             
+                "order":"Polypodiales",
+                "family": "Pteridaceae",
+                "genus": "Adiantum"
+             },
+             "plant_locations_algeria":[
+               "N/A"
+             ],
+             "plant_locations_world":[
+                "Mediterranean Europe","NW Africa","Western Asia","US"
+            ],
+             "sources_of_information":[
+                 {
+                    "source_name":"San Marcos Growers",
+                    "source_url":"https://www.smgrowers.com/products/plants/plantdisplay.asp?plant_id=21"
+             },
+             {
+                 "source_name":"RHS",
+                 "source_url":"https://www.rhs.org.uk/Plants/272107/i-Adiantum-capillus-veneris-i-Daphnites/Details"
+             },
+             {
+                 "source_name":"Catalogue of Life",
+                 "source_url":"http://www.catalogueoflife.org/col/details/species/id/6fee8f4ff86a5cf6f5670dc5afd029cc"
+             },
+             {
+                 "source_name":"Guide illustré de la flore algérienne ",
+                 "source_url":"https://www.bgci.org/files/JBF/images/livre-guideIllustreDeLaFloreAlgerienne.pdf"
+             },
+             {
+                 "source_name":"تقرير مجموعة النباتات الطبية 1995",
+                 "source_url":"https://www.uicnmed.org/nabp/web/documents/PLANTE.pdf"
+             },
+             {
+                 "source_name":"Trefle",
+                 "source_url":"https://trefle.io/explore/species/adiantum-capillus-veneris"
+             },
+             {
+                 "source_name":"Wikipedia",
+                 "source_url":"https://en.wikipedia.org/wiki/Adiantum_capillus-veneris"
+             }
+
+            ],
+            "contributors":[]
+        },
+        {
+            "name":"Alliaria petiolata",
+            "plant_name":{
+                "English":"Alliaria petiolata - (M.Bieb.)Cavara.&Grande",
+                "French":"Alliaire officinale",
+                "Arabic":"حشيشات الثوم",
+                "localAR":["Kerkas","Hachichet et’thoum"],
+                "LocalAmzg":["N/A"],
+                "structured_name": {
+                    "genus": "Alliaria",
+                    "species": "petiolata"
+                 }
+            },
+            "name definition":"Le nom Alliaria vient du latin allium et fait allusion à l’odeur d’ail de la plante. L’ancien nom d’espèce officinalis fait allusion aux vertus médicinales de l’espèce. L’actuel nom d’espèce petiolata indique que les feuilles de la base sont longuement pétiolées.",
+            "gbif_id": "5376075",
+            "plant_description1":"Cette espèce méditerranéenne a une origine vaste, et s’étend jusqu’à la Chine en passant par le Moyen-Orient. Elle s’est naturalisée en Amérique du Nord après son introduction par l’Homme. En Algérie, elle est commune dans le Tell et présente dans les forêts fraîches, les ravins ombragés et riches en humus",
+            "plant_description2":"Cette plante stimule l’activité psychique, augmente la sécrétion urinaire et accélère la cicatrisation des ulcères. Utilisée en cuisine dans les salades, elle donne une odeur d’ail.",
+            "plant_description3":"L’Alliaire est une plante dressée et robuste pouvant atteindre 40 à 80 cm de haut. Les feuilles basales sont longuement pétiolées et en forme de rein, alors que les feuilles supérieures sont en forme de cœur et grossièrement dentées. Les fleurs de couleur blanche sont terminales et le fruit légèrement bosselé s’ouvre par quatre valves. ", 
+            "plant_useful_parts":["N/A"],
+            "chemical_constituents":["N/A"],
+            "plant_benefits":"",
+            "IsMedicinal":"true",
+            "IsRare":"N/A",
+            "height_range_cm":"30-100",
+            "width_range_cm":"N/A",
+            "growth_rate":"Slow",
+            "flower_type":"N/A",
+            "SeasonofInterst":["N/A"],
+            "Water_needs":"Medium",
+            "Origin":"N/A",
+            "Soil_type":["N/A"],
+            "pH":"7-7.5",
+            "Attracts":"N/A",
+
+
+
+            
+            "plant_imgs_array":[
+                
+                "https://i.imgur.com/z9QZRy0.png"
+              ,
+                "https://i.imgur.com/6GPBg0M.png"
+              ,
+                "https://i.imgur.com/oPZRNb8.png"
+              , "https://i.imgur.com/2dr0nZt.png",
+              "https://i.imgur.com/zKC07IT.png",
+              "https://i.imgur.com/dRnSpCS.png",
+              "https://i.imgur.com/yjTWMcg.png"
+     
+              
+          ],
+            "map_localisation":"https://i.imgur.com/VVVz7dT.png",
+            "gbif_url":"https://www.gbif.org/species/5376075",
+            "plant_community_img_array":[],
+            "common_names": [
+              "Garlic Mustard",
+              "garlic-root","garlicwort","hedge-garlic",""
+
+             ],
+            
+             "taxonomy": {
+                "kingdom": "Plantae",
+                "phylum_subkingdom": "Tracheophyta",
+                "class_division": "Magnoliopsida",
+             
+                "order":"Brassicales",
+                "family": "Brassicaceae",
+                "genus": "Alliaria Heist. ex Fabr."
+             },
+             "plant_locations_algeria":[
+               "N/A"
+             ],
+             "plant_locations_world":[
+                "Most of Europe", "including Britain", "south to N. Africa" ,"east to W. Asia","the Himalayas"
+            ],
+             "sources_of_information":[
+             
+             {
+                 "source_name":"pfaf",
+                 "source_url":"https://pfaf.org/user/Plant.aspx?LatinName=Alliaria+petiolata"
+             },
+             {
+                 "source_name":"Catalogue of Life",
+                 "source_url":"http://www.catalogueoflife.org/col/details/species/id/d8254749384e599ec16d50b9b4ca4ff8"
+             },
+             {
+                 "source_name":"Guide illustré de la flore algérienne ",
+                 "source_url":"https://www.bgci.org/files/JBF/images/livre-guideIllustreDeLaFloreAlgerienne.pdf"
+             },
+             {
+                 "source_name":"تقرير مجموعة النباتات الطبية 1995",
+                 "source_url":"https://www.uicnmed.org/nabp/web/documents/PLANTE.pdf"
+             },
+             {
+                 "source_name":"Trefle",
+                 "source_url":"https://trefle.io/explore/species/alliaria-petiolata"
+             },
+             {
+                 "source_name":"Wikipedia",
+                 "source_url":"https://en.wikipedia.org/wiki/Alliaria_petiolata"
+             }
+
+            ],
+            "contributors":[]
+        }
+    ]
+
+}
